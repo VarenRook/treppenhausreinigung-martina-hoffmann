@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://varenrook.github.io/treppenhausreinigung-martina-hoffmann/sitemap.xml
